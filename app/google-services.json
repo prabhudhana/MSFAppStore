@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "444416409113",
+    "firebase_url": "https://msfappstore.firebaseio.com",
+    "project_id": "msfappstore",
+    "storage_bucket": "msfappstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444416409113:android:3c7e250828251697",
+        "android_client_info": {
+          "package_name": "com.example.krishnakartheek.msfstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444416409113-vqabj06d35r3t2d5j10kvf6gerpp8o2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.krishnakartheek.msfstore",
+            "certificate_hash": "5f9b43fd0b5d60a61858186a88f5177b16b462d0"
+          }
+        },
+        {
+          "client_id": "444416409113-da63t0re1sifhmcaf0kejhmpa8baov2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtDx2jnp7WSnHSGZwqmvhYnM2HKGwgO54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444416409113-da63t0re1sifhmcaf0kejhmpa8baov2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
